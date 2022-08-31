@@ -4,7 +4,7 @@ public class First_Class {
         System.out.println("Tell me about yourself? (Kendinden bahsedermisin?)");
         System.out.println("Sadece bir cumle");
         /*
-        Merhaba arkadaslar ,er kisi icin 5 satir belirlendi lutfen belirlenen
+        Merhaba arkadaslar her kisi icin 5 satir belirlendi lutfen belirlenen
         satirin disina cikmamamya dikkat edelim.
         - Yusuf bey -->16-20          - Filiz Hanim --> 41-45
         - Nihat bey --> 21-25         - Fatih Ok bey --> 46-50
